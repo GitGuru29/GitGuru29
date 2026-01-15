@@ -1,71 +1,69 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1000&color=F706CF&background=00000000&center=true&vCenter=true&width=500&lines=INITIALIZING+SYSTEM+DAEMON...;USER:+GITGURU29;STATUS:+BUILDING+ANDROID+ECOSYSTEMS;TARGET:+ARCH+LINUX+%7C+AOSP" alt="Cyberpunk Header" />
-</div>
+<!-- ================= MODERN FUTURE-PROOF GITHUB PROFILE ================= -->
 
-<div align="center">
-  <h3 style="color: #00f2ff;">⚡ SYSTEM_DEVELOPER // ARCH_USER ⚡</h3>
-</div>
+<h1 align="center">
+  Siluna Nusal Dangalla
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Software+Engineering+Undergraduate;Android+%7C+Systems+%7C+Security;Building+Practical+and+Scalable+Software" />
+</p>
 
 ---
 
-<div align="center">
-  <h3>🛠️ // TECH_STACK_MODULE</h3>
-  
-  <p>
-    <img src="https://img.shields.io/badge/C++-ff00ff?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black" />
-    <img src="https://img.shields.io/badge/C-00f2ff?style=for-the-badge&logo=c&logoColor=black&labelColor=black" />
-    <img src="https://img.shields.io/badge/Kotlin-fdf500?style=for-the-badge&logo=kotlin&logoColor=black&labelColor=black" />
-    <img src="https://img.shields.io/badge/Dart-00f2ff?style=for-the-badge&logo=dart&logoColor=black&labelColor=black" />
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Arch_Linux-00f2ff?style=for-the-badge&logo=arch-linux&logoColor=black&labelColor=black" />
-    <img src="https://img.shields.io/badge/Android-ff00ff?style=for-the-badge&logo=android&logoColor=white&labelColor=black" />
-    <img src="https://img.shields.io/badge/Bash-fdf500?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=black" />
-  </p>
-</div>
+## About
 
-<br/>
+I’m a **Software Engineering undergraduate** with a strong interest in  
+**Android systems, low-level software, and security-aware development**.
 
-<div align="center">
-<h3>🚀 // ACTIVE_PROTOCOLS</h3>
+I focus on building **practical projects**, understanding how systems work under the hood,  
+and improving performance, reliability, and maintainability.
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/PROJECT-GAMEMODEX-ff00ff?style=flat-square" />
-      <br/><br/>
-      <strong>System-Level Game Launcher</strong>
-      <br/>
-      <code>[Performance_Optimizer]</code> <code>[Overlays]</code>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-CLASSIFIED-red?style=flat-square" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/PROJECT-BYBRIDGE-00f2ff?style=flat-square" />
-      <br/><br/>
-      <strong>Android ↔ Linux Ecosystem</strong>
-      <br/>
-      <code>[C++_Daemon]</code> <code>[Remote_Control]</code>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-DEVELOPING-yellow?style=flat-square" />
-    </td>
-  </tr>
-</table>
+---
 
-<br/>
+## Technical Focus
 
-<img src="https://img.shields.io/badge/ACADEMIC_DATA-LOADED-00f2ff?style=flat-square" />
-<br/>
-<code>> Offline Quiz Server</code> • <code>> LMS System (React)</code> • <code>> Machine Learning</code>
-</div>
+- **Languages:** Kotlin, Java, C/C++, Python, Bash, JavaScript, SQL  
+- **Platforms:** Android, Linux  
+- **Areas:** Android OS, AOSP, system-level development, applied security  
+- **Tools:** Git, Firebase, REST APIs
 
-<br/>
+---
 
-<div align="center">
-  <h3>📊 // NET_STATS</h3>
-  
-  ![GitGuru29's Stats](https://github-readme-stats.vercel.app/api?username=GitGuru29&show_icons=true&theme=synthwave&hide_border=true&count_private=true)
-  <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitGuru29&layout=compact&theme=synthwave&hide_border=true)
-</div>
+## Selected Work
+
+- Android Game Launcher (system overlay, performance tools)
+- Gesture-controlled Music Player (camera & sensors)
+- Library Management System
+- Linux Task Manager (CLI)
+- Student communication platforms
+
+---
+
+## Current Direction
+
+- Android OS & AOSP exploration  
+- System-level optimization  
+- Final Year Project: **Face Recognition System**
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GitGuru29&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitGuru29&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## Contact
+
+- GitHub: https://github.com/GitGuru29  
+
+---
+
+<p align="center">
+  <sub>Focused on building solid systems, not just demos.</sub>
+</p>
+
+<!-- ================= END ================= -->
