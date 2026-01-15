@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=SYSTEM+DEVELOPER;ARCH+LINUX+%7C+HYPRLAND;GAMEMODEX+CREATOR" alt="Typing SVG" />
-  
+  <h1>Hi, I'm GitGuru29! 👋</h1>
   <h3>Building ecosystems for Android & Linux</h3>
   
   <p>
@@ -54,19 +53,15 @@
       <img src="https://img.shields.io/badge/Source-Private-red?style=flat-square" />
     </td>
   </tr>
+</table>
+
+<br/>
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <h3>🐧 Custom Arch Distro</h3>
-      <p><strong>Custom OS Development</strong></p>
-      <p>Building a specialized Arch ISO with pre-configured Hyprland and custom repositories.</p>
-      <br />
-      <img src="https://img.shields.io/badge/Build-Internal_Alpha-lightgrey?style=flat-square" />
-    </td>
-    <td width="50%" align="center">
+    <td align="center">
       <h3>🎓 Uni & Research</h3>
       <p><strong>Academic Work</strong></p>
-      <p>• Offline Quiz Server (Group Project)<br>• LMS System (React/Node)<br>• ML & Research Methods</p>
-      <br />
+      <p>• Offline Quiz Server (Group Project) &nbsp; • LMS System (React/Node) &nbsp; • ML & Research Methods</p>
       <img src="https://img.shields.io/badge/Context-University-purple?style=flat-square" />
     </td>
   </tr>
@@ -79,6 +74,6 @@
   <h3>⚡ Personal Stats</h3>
   <p><em>"Metro Exodus is the best game ever played."</em></p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GitGuru29&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitGuru29&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
