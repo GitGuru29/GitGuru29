@@ -78,6 +78,7 @@ val developer = Developer(
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Platforms & Frameworks
 
@@ -96,6 +97,7 @@ val developer = Developer(
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 </div>
 
@@ -158,6 +160,20 @@ val developer = Developer(
 **Tech Stack:** `Native Kotlin` `Jetpack Compose` `Firebase` `Google Maps SDK` `ML Kit`
 
 ---
+#### 🛡️ PrivacyShieldMac  
+***(In Development)*** 🔐  
+> *A macOS privacy-focused security utility designed to defend against visual eavesdropping*
+
+**Highlights:**
+
+- 👁️ Real-time Face Detection via Webcam  
+- 🔒 Auto-blur / Lock on Shoulder Surfing Detection  
+- 🧠 Vision Framework + System-Level Permissions  
+- ⚡ Lightweight Background Daemon Architecture  
+
+**Tech Stack:** `Swift` `macOS APIs` `Apple Vision Framework` `Security & Privacy Engineering`
+
+---
 
 #### 📊 [NeonMonitor](https://github.com/GitGuru29/NeonMonitor)
 ***(Complete)*** ✅
@@ -170,16 +186,15 @@ val developer = Developer(
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitGuru29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitGuru29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
+<div align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GitGuru29&theme=tokyonight" />
 </div>
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitGuru29&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" alt="GitHub Streak"/>
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitGuru29&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=C9D1D9" width="100%"/>
 </div>
