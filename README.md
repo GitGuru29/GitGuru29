@@ -161,7 +161,7 @@ val developer = Developer(
 
 ---
 #### 🛡️ PrivacyShieldMac  
-***(In Development)*** 🔐  
+***(Under Development)*** 🔐  
 > *A macOS privacy-focused security utility designed to defend against visual eavesdropping*
 
 **Highlights:**
