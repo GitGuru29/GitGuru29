@@ -138,7 +138,7 @@ val developer = Developer(
 ---
 
 #### 🛫 [AeroLang](https://github.com/GitGuru29)
-***(Building Compiler)*** ⚙️
+***(Complete v1.0)*** ✅
 > *A custom compiled programming language built from scratch*
 
 **Current Phase:** Building the Lexer and Parser
@@ -148,7 +148,7 @@ val developer = Developer(
 ---
 
 #### 🛒 [LankaSmartMart](https://github.com/GitGuru29/LankaSmartMart)
-***(Ongoing)*** 🏪
+***(Complete)*** ✅
 > *A modern, secure E-Commerce Android app built with Jetpack Compose & Firebase*
 
 **Features:**
@@ -161,7 +161,7 @@ val developer = Developer(
 
 ---
 #### 🛡️ PrivacyShieldMac  
-***(Under Development)*** 🔐  
+***(Complete)*** ✅  
 > *A macOS privacy-focused security utility designed to defend against visual eavesdropping*
 
 **Highlights:**
