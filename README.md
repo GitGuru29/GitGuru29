@@ -139,6 +139,7 @@ val developer = Developer(
 
 #### 🛫 [AeroLang](https://github.com/GitGuru29)
 ***(Complete v1.0)*** ✅
+***(UnderDevelopment v1.1)*** 
 > *A custom compiled programming language built from scratch*
 
 **Current Phase:** Building the Lexer and Parser
