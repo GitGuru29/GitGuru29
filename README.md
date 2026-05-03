@@ -55,6 +55,7 @@ val developer = Developer(
 </div>
 
 ```
+🔹 Operating System Development
 🔹 Exploring Android OS & AOSP internals
 🔹 Optimizing system-level performance
 🔹 Developing Face Recognition System
