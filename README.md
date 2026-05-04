@@ -43,7 +43,7 @@ val developer = Developer(
         "Performance Optimization",
         "AOSP Exploration"
     ),
-    currentFocus = "Face Recognition System (Final Year Project)",
+    currentFocus = "ArchTitan linux (Developer friendly OS)",
     mindset = "Understanding systems from the ground up"
 )
 ```
@@ -125,7 +125,7 @@ val developer = Developer(
 
 ---
 
-#### 🔗 [Bybridge](https://github.com/GitGuru29) *(Final Year Project)*
+#### 🔗 [Bybridge](https://github.com/GitGuru29) 
 ***(In Development)*** 🛠️
 > *A Cross-Device Ecosystem Daemon - Control Arch Linux from Android (and vice versa)*
 
