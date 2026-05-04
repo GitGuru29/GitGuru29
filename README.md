@@ -58,7 +58,7 @@ val developer = Developer(
 🔹 Operating System Development
 🔹 Exploring Android OS & AOSP internals
 🔹 Optimizing system-level performance
-🔹 Developing Face Recognition System
+🔹 Developing Custom OS
 🔹 Deep diving into security-aware development
 🔹 Building practical, maintainable solutions
 ```
