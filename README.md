@@ -30,4 +30,14 @@
   <img alt="SIDAN Vision & Console" src="./assets/05-vision-footer.svg" width="100%">
 </picture>
 
+<br>
+
+<!-- INTERACTIVE CONTACT DOCK -->
+<a href="https://www.linkedin.com/in/siluna-dangalla-0744a02b1/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://silunadangalla.vercel.app"><img src="./assets/btn-web.svg" alt="Web"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sdangalla44@gmail.com"><img src="./assets/btn-email.svg" alt="Email"></a>
+
+<br><br>
 </div>
