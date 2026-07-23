@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1100" width="1200" height="1100">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;600;900&amp;family=Space+Mono&amp;display=swap');
+      
+      .bg { fill: #030712; }
+      .glass-card { fill: #0B0F19; stroke: rgba(255,255,255,0.05); stroke-width: 1; rx: 4px; }
+      .font-main { font-family: 'Inter', sans-serif; }
+      .font-sys { font-family: 'Space Mono', monospace; }
+      
+      .card-title { font-weight: 700; font-size: 14px; fill: #F8FAFC; letter-spacing: 3px; }
+      .card-desc { font-weight: 400; font-size: 11px; fill: rgba(255,255,255,0.4); line-height: 1.6; }
+      .mod-title { font-weight: 900; font-size: 24px; fill: #F8FAFC; letter-spacing: 4px; }
+      
+      @keyframes dashAnim { 0% { stroke-dashoffset: 200; } 100% { stroke-dashoffset: 0; } }
+      .animated-border { stroke-dasharray: 60 140; animation: dashAnim 4s linear infinite; }
+      .glow-cyan { filter: drop-shadow(0 0 10px rgba(0, 245, 255, 0.4)); }
+      .wave-line { stroke-dasharray: 20 40; animation: dashAnim 4s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Scene 4: Technology Arsenal -->
+  <text x="120" y="80" class="font-sys" font-size="10" fill="#7C3AED" letter-spacing="4px">01 // ARSENAL</text>
+  <line x1="120" y1="95" x2="1080" y2="95" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
+  <rect x="120" y="94" width="60" height="3" fill="#7C3AED" />
+
+  <g transform="translate(120, 130)">
+    <!-- C++ / Core -->
+    <g transform="translate(0, 0)">
+      <rect width="220" height="180" class="glass-card" />
+      <rect width="220" height="180" fill="none" stroke="#00F5FF" stroke-width="1" rx="4" class="animated-border" />
+      <path d="M 25 35 L 45 25 L 65 35 L 65 55 L 45 65 L 25 55 Z" fill="none" stroke="#00F5FF" stroke-width="1.5" />
+      <circle cx="45" cy="45" r="4" fill="#00F5FF" class="glow-cyan" />
+      <text x="25" y="100" class="font-main card-title">C++ / C</text>
+      <text x="25" y="125" class="font-main card-desc">System daemons, memory</text>
+      <text x="25" y="140" class="font-main card-desc">management, and custom</text>
+      <text x="25" y="155" class="font-main card-desc">procfs extraction.</text>
+    </g>
+
+    <!-- Kotlin AOSP -->
+    <g transform="translate(240, 0)">
+      <rect width="220" height="180" class="glass-card" />
+      <path d="M 25 50 Q 40 25 55 50 T 85 50" fill="none" stroke="#3DDC84" stroke-width="2" />
+      <text x="25" y="100" class="font-main card-title">KOTLIN / AOSP</text>
+      <text x="25" y="125" class="font-main card-desc">Android OS internals,</text>
+      <text x="25" y="140" class="font-main card-desc">IPC sockets, and thermal</text>
+      <text x="25" y="155" class="font-main card-desc">optimization APIs.</text>
+    </g>
+
+    <!-- Arch Linux -->
+    <g transform="translate(480, 0)">
+      <rect width="220" height="180" class="glass-card" />
+      <rect x="25" y="30" width="30" height="24" fill="none" stroke="#1793D1" stroke-width="1.5" />
+      <text x="32" y="46" class="font-sys" font-size="12" fill="#1793D1">></text>
+      <text x="25" y="100" class="font-main card-title">ARCH LINUX</text>
+      <text x="25" y="125" class="font-main card-desc">Custom OS via archiso,</text>
+      <text x="25" y="140" class="font-main card-desc">Wayland-first setups,</text>
+      <text x="25" y="155" class="font-main card-desc">Hyprland configurations.</text>
+    </g>
+
+    <!-- Swift Security -->
+    <g transform="translate(720, 0)">
+      <rect width="220" height="180" class="glass-card" />
+      <circle cx="45" cy="45" r="15" fill="none" stroke="#F05138" stroke-width="1.5" />
+      <circle cx="45" cy="45" r="6" fill="#F05138" />
+      <text x="25" y="100" class="font-main card-title">SWIFT / VISION</text>
+      <text x="25" y="125" class="font-main card-desc">macOS background daemons,</text>
+      <text x="25" y="140" class="font-main card-desc">Apple Vision framework,</text>
+      <text x="25" y="155" class="font-main card-desc">security protocols.</text>
+    </g>
+  </g>
+
+  <!-- Scene 5: ArchTitan Ecosystem -->
+  <text x="120" y="400" class="font-sys" font-size="10" fill="#00F5FF" letter-spacing="4px">02 // ARCHTITAN ECOSYSTEM</text>
+  <line x1="120" y1="415" x2="1080" y2="415" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
+  <rect x="120" y="414" width="60" height="3" fill="#00F5FF" />
+
+  <g transform="translate(120, 460)">
+    
+    <!-- ArchTitan Flagship -->
+    <g transform="translate(0, 0)">
+      <rect width="960" height="240" fill="rgba(11, 15, 25, 0.6)" stroke="rgba(255,255,255,0.05)" stroke-width="1" rx="8" />
+      <rect width="960" height="240" fill="none" stroke="#00F5FF" stroke-width="1" rx="8" class="animated-border" />
+      
+      <text x="50" y="60" class="font-sys" font-size="10" fill="#2563EB" letter-spacing="2px">FLAGSHIP OPERATING SYSTEM</text>
+      <text x="50" y="100" class="font-main mod-title">ARCHTITAN OS</text>
+      <text x="50" y="135" class="font-main card-desc">Built on Arch Linux. Wayland-first. Hyprland based.</text>
+      <text x="50" y="155" class="font-main card-desc">Performance focused, AI-ready, developer-first environment.</text>
+      <text x="50" y="175" class="font-main card-desc">Low idle RAM. Context-aware system integration.</text>
+      
+      <circle cx="800" cy="120" r="80" fill="none" stroke="#2563EB" stroke-width="1" opacity="0.3" />
+      <circle cx="800" cy="120" r="50" fill="none" stroke="#00F5FF" stroke-width="1" stroke-dasharray="4 8" style="transform-origin: 800px 120px; animation: dashAnim 10s linear infinite;" />
+      <circle cx="800" cy="120" r="6" fill="#00F5FF" class="glow-cyan" />
+    </g>
+
+    <!-- Titan HWM -->
+    <g transform="translate(0, 270)">
+      <rect width="465" height="160" class="glass-card" />
+      <text x="30" y="40" class="font-sys" font-size="10" fill="#7C3AED" letter-spacing="2px">CONTEXT-AWARE C++ DAEMON</text>
+      <text x="30" y="75" class="font-main mod-title" font-size="20">TITAN HWM</text>
+      <text x="30" y="105" class="font-main card-desc">Memory Graph Builder, Signal Pruner, Kernel Tuner,</text>
+      <text x="30" y="125" class="font-main card-desc">Adaptive Power Profiles, Resource Scheduler.</text>
+      <text x="30" y="145" class="font-sys" font-size="9" fill="#7C3AED">procfs | SIGSTOP | SIGCONT | SIGTERM</text>
+    </g>
+
+    <!-- Titan Share & Mirror -->
+    <g transform="translate(495, 270)">
+      <rect width="465" height="160" class="glass-card" />
+      <text x="30" y="40" class="font-sys" font-size="10" fill="#F59E0B" letter-spacing="2px">ANDROID &lt;—&gt; LINUX ECOSYSTEM</text>
+      <text x="30" y="75" class="font-main mod-title" font-size="20">TITAN SHARE &amp; MIRROR</text>
+      <text x="30" y="105" class="font-main card-desc">mDNS discovery, secure pairing, high-speed local transfer,</text>
+      <text x="30" y="125" class="font-main card-desc">and native Android screen mirroring to ArchTitan.</text>
+      
+      <line x1="320" y1="70" x2="420" y2="70" stroke="#F59E0B" stroke-width="2" class="wave-line" />
+      <circle cx="320" cy="70" r="4" fill="#F59E0B" />
+      <circle cx="420" cy="70" r="4" fill="#F59E0B" />
+    </g>
+
+    <!-- NeonMonitor -->
+    <g transform="translate(0, 460)">
+      <rect width="960" height="120" class="glass-card" />
+      <text x="30" y="40" class="font-sys" font-size="10" fill="#10B981" letter-spacing="2px">SYSTEM TELEMETRY</text>
+      <text x="30" y="75" class="font-main mod-title" font-size="20">NEONMONITOR</text>
+      <text x="30" y="100" class="font-main card-desc">High-performance Linux task manager and resource monitor utilizing C++ and procfs.</text>
+      
+      <path d="M 750 80 L 770 60 L 790 70 L 810 40 L 830 55 L 850 30 L 870 50" fill="none" stroke="#10B981" stroke-width="2" filter="drop-shadow(0 0 5px #10B981)" />
+    </g>
+    
+  </g>
+</svg>
