@@ -50,7 +50,7 @@
     <path d="M 30 200 L 70 170 L 110 220 L 150 140 L 190 190 L 230 110 L 270 150 L 310 80 L 330 130" fill="none" stroke="#10B981" stroke-width="2" filter="drop-shadow(0 0 5px #10B981)" />
     <path d="M 30 200 L 70 170 L 110 220 L 150 140 L 190 190 L 230 110 L 270 150 L 310 80 L 330 130 L 330 380 L 30 380 Z" fill="rgba(16, 185, 129, 0.1)" />
     
-    <text x="30" y="320" class="font-main" font-size="28" font-weight="900" fill="#F8FAFC">1.2K+</text>
+    <text x="30" y="320" class="font-main" font-size="28" font-weight="900" fill="#F8FAFC">1K+</text>
     <text x="30" y="340" class="font-sys" font-size="10" fill="rgba(255,255,255,0.5)">SYSTEM COMMITS (YTD)</text>
   </g>
 
