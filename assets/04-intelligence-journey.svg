@@ -27,7 +27,7 @@
   <g transform="translate(120, 140)">
     <text x="30" y="40" class="font-sys" font-size="12" fill="#F8FAFC" font-weight="700">COMMIT PULSE &amp; REPOSITORY RADAR</text>
     
-    <!-- Radar Chart -->
+    <!-- Radar Chart Background Rings -->
     <circle cx="300" cy="220" r="120" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
     <circle cx="300" cy="220" r="80" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
     <circle cx="300" cy="220" r="40" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
@@ -47,6 +47,7 @@
   <g transform="translate(720, 140)">
     <text x="30" y="40" class="font-sys" font-size="12" fill="#F8FAFC" font-weight="700">CONTRIBUTION TIMELINE</text>
     
+    <!-- Graph Line and Fill -->
     <path d="M 30 200 L 70 170 L 110 220 L 150 140 L 190 190 L 230 110 L 270 150 L 310 80 L 330 130" fill="none" stroke="#10B981" stroke-width="2" />
     <path d="M 30 200 L 70 170 L 110 220 L 150 140 L 190 190 L 230 110 L 270 150 L 310 80 L 330 130 L 330 380 L 30 380 Z" fill="rgba(16, 185, 129, 0.1)" />
     
