@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- COMMITTERS.TOP BADGE -->
+<a href="https://user-badge.committers.top/sri_lanka_public/GitGuru29">
+  <img src="https://user-badge.committers.top/sri_lanka_public/GitGuru29.svg" alt="committers.top badge">
+</a>
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/01-hero-identity.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="./assets/01-hero-identity.svg?v=2">
