@@ -56,6 +56,13 @@
   <img alt="SIDAN Vision & Console" src="./assets/05-vision-footer.svg?v=2" width="100%">
 </picture>
 
+<h2>◈ BADGES</h2>
+<a href="https://holopin.io/@gitguru29">
+  <img src="https://holopin.me/gitguru29" alt="Holopin badges">
+</a>
+
+<br><br>
+
 <h2>◈ LIVE TELEMETRY</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=GitGuru29&show_icons=true&hide_border=true&bg_color=00000000&title_color=00e5ff&icon_color=ffb86c&text_color=9ca3af&include_all_commits=true" height="165" alt="GitHub statistics">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitGuru29&layout=compact&hide_border=true&bg_color=00000000&title_color=00e5ff&text_color=9ca3af&langs_count=8" height="165" alt="Top languages">
